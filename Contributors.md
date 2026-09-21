@@ -4,6 +4,7 @@ B05U3-
 - [Sreyas Sasikumar](https://github.com/sreyassasikumar)
 - [Melissa](https://github.com/melissaclark820914) First Contribution!
 - claude
+- [RustSE]
 -[Deepak Sing](https://github.com/CodeWithDks)
 -[Jesse Wade] (https://github.com/wadej132/first-contributions.git) Happy to Contribute
 - [Fida Hussain](https://github.com/FidaHussainWani)
